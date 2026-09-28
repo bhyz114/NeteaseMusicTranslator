@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">网易云音乐翻译</string>
+    <string name="xposed_description">将网易云音乐界面翻译为越南语</string>
+    <string name="module_status">模块状态</string>
+    <string name="module_enabled">已激活</string>
+    <string name="module_disabled">未激活</string>
+    <string name="translation_count">翻译词条数: %d</string>
+    <string name="reload_dictionary">重新加载词典</string>
+    <string name="export_dictionary">导出词典</string>
+    <string name="import_dictionary">导入词典</string>
+    <string name="about">关于</string>
+</resources>
